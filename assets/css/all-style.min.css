@@ -14177,7 +14177,7 @@ img {
   position: absolute;
   top: -15px;
   right: -15px;
-  content: url(../images/who-img-after.png);
+  content: url(../images/who-img-after.webp);
 }
 .who-us .who-pargraph h5 {
   font-weight: 700;
@@ -14414,7 +14414,7 @@ img {
   content: none !important;
 }
 .form-contact {
-  background-image: url(../images/form-bg.png);
+  background-image: url(../images/form-bg.webp);
   background-attachment: fixed;
   background-size: cover;
   text-align: center;
